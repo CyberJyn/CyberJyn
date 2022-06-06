@@ -3,7 +3,7 @@
 </div>
 
 <div id="Tags" align="center">
-🐈 ―— Gato Programador JR ―— 💻
+🐈 — Gato Programador JR — 💻
 </div>
 
 <div id="Insignias" align="center">
@@ -30,4 +30,8 @@
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/TypeScript-2F74C0?logo=typescript&logoColor=white&style=flat" alt="typescript"/>
   </a>
+</div>
+
+<div id="Mensaje" align="center">
+  <i>Me gusta programar como un pasatiempo</i>
 </div>
