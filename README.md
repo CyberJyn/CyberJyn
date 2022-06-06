@@ -16,7 +16,7 @@
   <a href="https://discord.js.org/#/">
     <img src="https://img.shields.io/badge/Discord.js-6F6CFF?logo=Discord&logoColor=white&style=flat" alt="discord.js"/>
   </a>
-  
+  🔗
   <a href="https://nodejs.org/es/">
     <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=flat" alt="node.js"/>
   </a>
@@ -26,7 +26,7 @@
   <a href="https://es.wikipedia.org/wiki/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-FDFA05?logo=javascript&logoColor=white&style=flat" alt="javascript"/>
   </a>
-   — 📚 — 
+  📚
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/TypeScript-2F74C0?logo=typescript&logoColor=white&style=flat" alt="typescript"/>
   </a>
