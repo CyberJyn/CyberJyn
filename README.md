@@ -3,7 +3,7 @@
 </div>
 
 <div id="Tags" align="center">
-:cat Gato Programador JR
+🐈 ―— Gato Programador JR ―— 💻
 </div>
 
 <div id="Insignias" align="center">
@@ -26,8 +26,8 @@
   <a href="https://es.wikipedia.org/wiki/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-FDFA05?logo=javascript&logoColor=white&style=flat" alt="javascript"/>
   </a>
-  
+  📚
   <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/TypeScript-2F74C0?logo=typescript&logoColor=white&style=flat" alt="typescript"/> ( 📚 )
+    <img src="https://img.shields.io/badge/TypeScript-2F74C0?logo=typescript&logoColor=white&style=flat" alt="typescript"/>
   </a>
 </div>
