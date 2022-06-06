@@ -13,5 +13,5 @@
 
 <div id="Lenguajes" align="center">
   <img src="https://img.shields.io/badge/Discord.js-6F6CFF?logo=Discord&logoColor=white&style=flat" alt="discord.js"/>
-  <img src="https://img.shields.io/badge/node.JS-43853D?logo=node.js&logoColor=white&style=flat" alt="node.js"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=flat" alt="node.js"/>
 </div>
