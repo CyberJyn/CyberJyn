@@ -18,6 +18,6 @@
 </div>
 
 <div id="Lenguajes" align="center">
-  <img src="https://img.shields.io/badge/JavaScript-FDFA05?logo=javascript&logoColor=white&style=flat" alt"javascript"/>
-  
+  <img src="https://img.shields.io/badge/JavaScript-FDFA05?logo=javascript&logoColor=white&style=flat" alt="javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-2F74C0?logo=typescript&logoColor=white&style=flat" alt="typescript"/> ( 📚 )
 </div> 
