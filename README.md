@@ -12,9 +12,13 @@
 </div>
 
 <div id="Area" align="center">
+  <a href="https://discord.js.org/#/">
   <img src="https://img.shields.io/badge/Discord.js-6F6CFF?logo=Discord&logoColor=white&style=flat" alt="discord.js"/>
+  </a>
   🔗
+  <a href="https://nodejs.org/es/">
   <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=flat" alt="node.js"/>
+  </a>
 </div>
 
 <div id="Lenguajes" align="center">
