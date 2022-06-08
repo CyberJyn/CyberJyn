@@ -33,5 +33,6 @@
 </div>
 
 <div id="Mensaje" align="center">
-  <i>💡 Me gusta programar como un pasatiempo, no como algo profesional</i>
+  <img src="https://cdn.discordapp.com/emojis/587999111027097601.png?v=2&size=40" alt="Cat Thumbsup" height=26 width=26 />
+  <i>Me gusta programar como un pasatiempo, no como algo profesional</i>
 </div>
