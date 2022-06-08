@@ -24,7 +24,7 @@
 
 <div id="Lenguajes" align="center">
   <a href="https://es.wikipedia.org/wiki/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-FDFA05?logo=javascript&logoColor=white&style=flat" alt="javascript"/>
+    <img src="https://img.shields.io/badge/JavaScript-EFD81D?logo=javascript&logoColor=white&style=flat" alt="javascript"/>
   </a>
   📚
   <a href="https://www.typescriptlang.org/">
