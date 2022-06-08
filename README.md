@@ -36,3 +36,8 @@
   <img src="https://cdn.discordapp.com/emojis/587999111027097601.png?" alt="Cat Thumbsup" height=26 width=26 />
   <i>Me gusta programar como un pasatiempo, no como algo profesional</i>
 </div>
+
+#
+<div id="Gato" align="center">
+  <img src="https://d14eu5yur8w3te.cloudfront.net/api/v1/media/baseclub-media-uploads-production/1b0a04b3-19cf-42a3-b499-47deed7dde42.gif" alt="Poses de Gatos" height=300 width=300>
+</div>
