@@ -33,7 +33,7 @@
 </div>
 
 <div id="Mensaje" align="center">
-  <img src="https://cdn.discordapp.com/emojis/587999111027097601.png?" alt="Cat Thumbsup" height=26 width=26 />
+  <img src="https://cdn.discordapp.com/emojis/837155398389465088.gif" alt="Cat Thumbsup" height=30 width=30 />
   <i>Me gusta programar como un pasatiempo, no como algo profesional</i>
 </div>
 
