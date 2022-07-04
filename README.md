@@ -26,10 +26,6 @@
   <a href="https://es.wikipedia.org/wiki/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-EFD81D?logo=javascript&logoColor=white&style=flat" alt="javascript"/>
   </a>
-  📚
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/TypeScript-2F74C0?logo=typescript&logoColor=white&style=flat" alt="typescript"/>
-  </a>
 </div>
 
 <div id="Mensaje" align="center">
